@@ -1,0 +1,4 @@
+
+# To ask ChatGPT to find out errors in my essays.
+Analyse the following essay and point out grammatical errors, inappropriate collations,
+wrongly used punctuation, unnatural expressions and so forth. 
