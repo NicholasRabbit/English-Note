@@ -1,0 +1,7 @@
+Wednesday 25 December 2024
+
+I have spent about two hours on solving a problem in a programme which was wrote by me half a year ago. After learning more and more about how to write maintainable readable, and robust code in the past months, I felt embarrassed when I was reading my legacy programme which were absolutely cluttered and hard to be optimised. Suddenly, I realised that is the very symbol that I have made progress which is not so significant but it is. Like any other craftsman who has to challenge complex and difficult job which is beyond his or her ability to be an exceptional master, software engineer is not an exception. 
+
+Repeatedly doing the same kind of job doesn’t help. The reason that I am unwilling to spend too much time on my monotonous daily task is it is so easy and not challenged that I can not learn anything from that. Obviously, it is just like a mediocre carpenter who always make chairs, tables and beds with simple structure as easy as fliping his hands. But in the real world not all the problems are easy to be solved and there are some obstacles to encounter when we want to be the best in a particular area. Then we tackle them all by making our best effort to learning what we don’t know. 
+
+In addition, even talented intellectuals such as Mozart have spent ten years before his first performance in the concert, not to mention the majority of us who are so ordinary without any innate ability. 
