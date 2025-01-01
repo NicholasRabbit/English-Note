@@ -1,9 +1,0 @@
-Thursday 19 December
-
-After testing and rewriting code alternately for almost two hours I finally finished a extremely difficult lab of CSAPP, which is an acronym of the name of a famous book called  “Computer Systems: A Programmer’s Perspective” among computer science. It was written by Professor Bryant and his colleague. 
-
-This book is a weighty tome with more than one thousand pages and has fundamental and comprehensive knowledge about how hardware such as CPU, memory, and so forth form a sophisciated aparatus serving users without their consciousness. It is definitely well worth reading if anyone in IT area wants to be a “power programmer”. Basic skills are crucial in almost every subject. For instance, when learning a language, we should know its alphabet, pronunciation and words first and then the long complicated sentences. As a matter of fact, it is the same in programming. 
-
-Whereas, reading such a heavy book is a great chanllege and presumably needs patience and time. Fortunately, it is thoroughly written so that it would not be so difficult to understand only if readers had learnt a programming language and mathematics. 
-
-In addition, there are many labs to do to test whether the reader really assimilate. It perhaps take months even years to finish the book, but I will keep on going. 
