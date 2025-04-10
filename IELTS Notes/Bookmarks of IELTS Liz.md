@@ -7,7 +7,8 @@
 
 ### Writing
 
-[Essential Preparation Tips](https://ieltsliz.com/ielts-writing-task-1-preparation-tips/)
+[Essential Preparation Tips for Writing Task 1](https://ieltsliz.com/ielts-writing-task-1-preparation-tips/)
 
-3. Task 1 Band Scores and Marking Criteria.
+- [x] Task 1 Band Scores and Marking Criteria. ([How to prepare Writing Task 1](https://ieltsliz.com/ielts-writing-task-1-preparation-tips/))
 
+- [ ] [Band Score with Useful Tips](https://ieltsliz.com/ielts-writing-task-1-band-scores/) (Not finished)
