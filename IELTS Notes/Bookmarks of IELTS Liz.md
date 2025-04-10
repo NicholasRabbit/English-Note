@@ -11,4 +11,4 @@
 
 - [x] Task 1 Band Scores and Marking Criteria. ([How to prepare Writing Task 1](https://ieltsliz.com/ielts-writing-task-1-preparation-tips/))
 
-- [ ] [Band Score with Useful Tips](https://ieltsliz.com/ielts-writing-task-1-band-scores/) (Not finished)
+- [x] [Band Score with Useful Tips](https://ieltsliz.com/ielts-writing-task-1-band-scores/) 
