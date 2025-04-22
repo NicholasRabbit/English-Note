@@ -11,5 +11,6 @@
 [Essential Preparation Tips for Writing Task 1](https://ieltsliz.com/ielts-writing-task-1-preparation-tips/)
 
 - [x] Task 1 Band Scores and Marking Criteria. ([How to prepare Writing Task 1](https://ieltsliz.com/ielts-writing-task-1-preparation-tips/))
-
 - [x] [Band Score with Useful Tips](https://ieltsliz.com/ielts-writing-task-1-band-scores/) 
+- [ ] [Bar charts practice](https://ieltsliz.com/ielts-sample-chart-for-writing-task-1/)
+
