@@ -14,3 +14,7 @@
 - [x] [Band Score with Useful Tips](https://ieltsliz.com/ielts-writing-task-1-band-scores/) 
 - [ ] [Bar charts practice](https://ieltsliz.com/ielts-sample-chart-for-writing-task-1/)
 
+### Reading
+
+[Reading Tips](https://ieltsliz.com/ielts-reading-lessons-information-and-tips/)
+
