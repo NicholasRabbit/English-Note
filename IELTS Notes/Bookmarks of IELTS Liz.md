@@ -8,6 +8,7 @@
 - [x] [Diagram Practice](https://ieltsliz.com/ielts-listening-diagrams-practice-tips/)
 - [x] Section 4 Practice
 - [x] [Summary Completion Tips](https://ieltsliz.com/listening-practice-summary-completion-questions/)
+- [x] Table Completion
 
 ### Writing
 
