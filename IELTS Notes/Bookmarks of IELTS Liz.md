@@ -9,6 +9,7 @@
 - [x] Section 4 Practice
 - [x] [Summary Completion Tips](https://ieltsliz.com/listening-practice-summary-completion-questions/)
 - [x] Table Completion
+- [ ] [Sentences Completion](https://ieltsliz.com/ielts-listening-practice-gap-fill-question/)
 
 ### Writing
 
