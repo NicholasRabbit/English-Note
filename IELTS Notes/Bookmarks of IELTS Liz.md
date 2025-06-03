@@ -21,7 +21,9 @@
 
 [Task Two](https://ieltsliz.com/ielts-writing-task-2/)
 
-- [ ] [Band score 5 to 8 with tips.](https://ieltsliz.com/ielts-writing-task-2-band-scores-5-to-8/)
+- [x] [Band score 5 to 8 with tips.](https://ieltsliz.com/ielts-writing-task-2-band-scores-5-to-8/)
+- [x] [Types of Essays.](https://ieltsliz.com/types-of-ielts-essays/)
+- [ ] [Essay Structure of IELTS](https://ieltsliz.com/how-many-paragraphs-for-an-ielts-essay/)
 
 ### Reading
 
