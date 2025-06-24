@@ -1,5 +1,7 @@
 ### **1. 44 Phonetic Symbols in Daniel Jones Phonetic Alphabet**
-Here are the **44 standard IPA symbols** for British English, along with their **Unicode shortcuts** (type the code, then press **`Alt + X`**):
+Here are the **48 standard IPA symbols** for British English, along with their **Unicode shortcuts** (type the code, then press **`Alt + X`**).
+
+It is also said that there are 44 standard IPA symbols because /ts/, /dz/, /tr/ and /dr/ are omitted.  
 
 #### **Vowels (12 Monophthongs)**
 | Symbol | Example Word | Unicode (Alt+X)                                |
