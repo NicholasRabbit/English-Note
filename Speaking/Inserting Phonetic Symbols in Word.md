@@ -3,10 +3,18 @@ Here are the **48 standard IPA symbols** for British English, along with their *
 
 It is also said that there are 44 standard IPA symbols because /ts/, /dz/, /tr/ and /dr/ are omitted.  
 
+The symbol of long vowels.
+
+   **ː** : 02d0. It is the colon but two triangles.    
+
+  ' : 02c8  Alt+x (Primary Stress)
+
+ˌ : 02cc Alt +x (Secondary Stress)  
+
 #### **Vowels (12 Monophthongs)**
 | Symbol | Example Word | Unicode (Alt+X)                                |
 | ------ | ------------ | ---------------------------------------------- |
-| iː     | fleece       | `**026A**` + `Alt+X`                           |
+| i:     | fleece       | the normal 'i'                                 |
 | ɪ      | kit          | `**026A**` + `Alt+X` (then remove length mark) |
 | e      | dress        | `**0065**` + `Alt+X` (normal 'e')              |
 | æ      | trap         | `**00E6**` + `Alt+X`                           |
@@ -60,6 +68,7 @@ It is also said that there are 44 standard IPA symbols because /ts/, /dz/, /tr/ 
 | dʒ     | judge        | `**0064**` + `**0292**` |
 
 ### **2. Best Way to Type IPA in Word**
+
 #### **Option 1: Use Unicode Shortcuts (Alt+X)**
 - Type the **Unicode** (e.g., `0259` for **ə**), then press **`Alt + X`** to convert it.
 
