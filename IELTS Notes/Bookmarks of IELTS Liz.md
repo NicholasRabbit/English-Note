@@ -21,11 +21,12 @@
 - [x] [Band Score with Useful Tips](https://ieltsliz.com/ielts-writing-task-1-band-scores/) 
 - [ ] [Bar charts practice](https://ieltsliz.com/ielts-sample-chart-for-writing-task-1/)
 
-[Task Two](https://ieltsliz.com/ielts-writing-task-2/)
+[Task 2](https://ieltsliz.com/ielts-writing-task-2/)
 
 - [x] [Band score 5 to 8 with tips.](https://ieltsliz.com/ielts-writing-task-2-band-scores-5-to-8/)
 - [x] [Types of Essays.](https://ieltsliz.com/types-of-ielts-essays/)
-- [ ] [Essay Structure of IELTS](https://ieltsliz.com/how-many-paragraphs-for-an-ielts-essay/)
+- [x] [Essay Structure of IELTS](https://ieltsliz.com/how-many-paragraphs-for-an-ielts-essay/)
+- [ ] [Paraphrase](https://ieltsliz.com/how-to-paraphrase-in-ielts/) -  [Paraphrase Practice](https://ieltsliz.com/ielts-writing-task-2-paraphrasing-practice/)
 
 ### Reading
 
