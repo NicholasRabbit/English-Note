@@ -5,7 +5,7 @@ It is also said that there are 44 standard IPA symbols because /ts/, /dz/, /tr/ 
 
 The symbol of long vowels.
 
-   **ː** : 02d0. It is the colon but two triangles.    
+   **ː** : 02d0. It is not a colon but two triangles.    
 
   ' : 02c8  Alt+x (Primary Stress)
 
