@@ -7,9 +7,9 @@ The symbol of long vowels.
 
    **ː** : 02d0. It is not a colon but two triangles.    
 
-  ' : 02c8  Alt+x (Primary Stress)
+  ' : 02c8  Alt+x : Primary Stress
 
-ˌ : 02cc Alt +x (Secondary Stress)  
+ˌ : 02cc Alt +x : Secondary Stress
 
 #### **Vowels (12 Monophthongs)**
 | Symbol | Example Word | Unicode (Alt+X)                                |
